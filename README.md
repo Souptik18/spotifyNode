@@ -38,8 +38,8 @@ also check liked songs. 🎸
 1. _download the file as a zip and place it in a folder_
 2. _open terminal and run npm install inside the parent folder of the app_
 3. _open the mongodb server and paste the link "mongodb://localhost:27017/tracks" inside the connection string and click connect_ (check the env file for more details)
-4. now open the browser and type the port address given on the env file _example: localhost:3000_
-
+4. _in the terminal type npm run start_
+5. now open the browser and type the port address given on the env file _example: localhost:3000_
 #
 
 🎶
